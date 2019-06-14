@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+1.txt
+clearmacaddr.exe
+.gitignore
+out
+gen
+catssh.go___jb_tmp___
